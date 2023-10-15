@@ -34,15 +34,12 @@ body{
     margin-bottom: 10px;
 }
 
-.holder{
-    border-color: white;
+.table{
+    border: 1px solid;
+    text-align: start;
+    padding: 20px;
 }
-.center-section{
-    height: 200px;
-    width: 100%;
-    border-radius: 10px;
-    margin-top: 30px;
-}
-.s1{
-    margin-left: 200px;
+#divider{
+   border: 6px dotted rgb(181, 245, 181);
+   width: 15%;
 }
